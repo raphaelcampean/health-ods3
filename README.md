@@ -8,7 +8,6 @@ Este projeto monitora a temperatura e umidade de recém-nascidos, acionando um a
 - Sensor DHT22 (temperatura e umidade)
 - Buzzer piezo
 - Módulo relé
-- LED indicador
 
 ## Diagrama de montagem
 
