@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "project": {
+    "name": "ESP32 Project"
+  },
+  "dependencies": {},
+  "board": "esp32"
+}
